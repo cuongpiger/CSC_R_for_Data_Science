@@ -1,0 +1,4 @@
+These data files are derived by splitting up the data set downloaded from:
+https://www.ontario.ca/data/ontario-public-schools-enrolment
+under the Open Government License - Ontario:
+https://www.ontario.ca/page/open-government-licence-ontario
