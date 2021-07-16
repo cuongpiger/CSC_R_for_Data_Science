@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<cars>
+  <car>
+    <names>Mazda RX4</names>
+    <mpg>21</mpg>
+    <wt>2.62</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Mazda RX4 Wag</names>
+    <mpg>21</mpg>
+    <wt>2.875</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Datsun 710</names>
+    <mpg>22.8</mpg>
+    <wt>2.32</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Hornet 4 Drive</names>
+    <mpg>21.4</mpg>
+    <wt>3.215</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Hornet Sportabout</names>
+    <mpg>18.7</mpg>
+    <wt>3.44</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Valiant</names>
+    <mpg>18.1</mpg>
+    <wt>3.46</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Duster 360</names>
+    <mpg>14.3</mpg>
+    <wt>3.57</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Merc 240D</names>
+    <mpg>24.4</mpg>
+    <wt>3.19</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Merc 230</names>
+    <mpg>22.8</mpg>
+    <wt>3.15</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Merc 280</names>
+    <mpg>19.2</mpg>
+    <wt>3.44</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Merc 280C</names>
+    <mpg>17.8</mpg>
+    <wt>3.44</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Merc 450SE</names>
+    <mpg>16.4</mpg>
+    <wt>4.07</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Merc 450SL</names>
+    <mpg>17.3</mpg>
+    <wt>3.73</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Merc 450SLC</names>
+    <mpg>15.2</mpg>
+    <wt>3.78</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Cadillac Fleetwood</names>
+    <mpg>10.4</mpg>
+    <wt>5.25</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Lincoln Continental</names>
+    <mpg>10.4</mpg>
+    <wt>5.424</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Chrysler Imperial</names>
+    <mpg>14.7</mpg>
+    <wt>5.345</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Fiat 128</names>
+    <mpg>32.4</mpg>
+    <wt>2.2</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Honda Civic</names>
+    <mpg>30.4</mpg>
+    <wt>1.615</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Toyota Corolla</names>
+    <mpg>33.9</mpg>
+    <wt>1.835</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Toyota Corona</names>
+    <mpg>21.5</mpg>
+    <wt>2.465</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Dodge Challenger</names>
+    <mpg>15.5</mpg>
+    <wt>3.52</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>AMC Javelin</names>
+    <mpg>15.2</mpg>
+    <wt>3.435</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Camaro Z28</names>
+    <mpg>13.3</mpg>
+    <wt>3.84</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Pontiac Firebird</names>
+    <mpg>19.2</mpg>
+    <wt>3.845</wt>
+    <gear>3</gear>
+  </car>
+  <car>
+    <names>Fiat X1-9</names>
+    <mpg>27.3</mpg>
+    <wt>1.935</wt>
+    <gear>4</gear>
+  </car>
+  <car>
+    <names>Porsche 914-2</names>
+    <mpg>26</mpg>
+    <wt>2.14</wt>
+    <gear>5</gear>
+  </car>
+  <car>
+    <names>Lotus Europa</names>
+    <mpg>30.4</mpg>
+    <wt>1.513</wt>
+    <gear>5</gear>
+  </car>
+  <car>
+    <names>Ford Pantera L</names>
+    <mpg>15.8</mpg>
+    <wt>3.17</wt>
+    <gear>5</gear>
+  </car>
+  <car>
+    <names>Ferrari Dino</names>
+    <mpg>19.7</mpg>
+    <wt>2.77</wt>
+    <gear>5</gear>
+  </car>
+  <car>
+    <names>Maserati Bora</names>
+    <mpg>15</mpg>
+    <wt>3.57</wt>
+    <gear>5</gear>
+  </car>
+  <car>
+    <names>Volvo 142E</names>
+    <mpg>21.4</mpg>
+    <wt>2.78</wt>
+    <gear>4</gear>
+  </car>
+</cars>

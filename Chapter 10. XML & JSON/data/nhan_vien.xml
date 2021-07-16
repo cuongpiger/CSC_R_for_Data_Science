@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NHAN_VIEN_S shelf="New Arrivals">
+  <NHAN_VIEN ID="1" Ho_ten="Phí quyết Nguyên" Gioi_tinh="true" Ngay_sinh="31/08/1973" CMND="060605210" Muc_luong="5200000" Dia_chi="424 C Phường 4- Quận 10- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="2" Ho_ten="Đổ sơn thụy Trang" Gioi_tinh="false" Ngay_sinh="14/03/1979" CMND="083239154" Muc_luong="8400000" Dia_chi="96 C Phường 1- Quận 11- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="3" Ho_ten="Triệu thị trang Đài" Gioi_tinh="false" Ngay_sinh="26/04/1990" CMND="005487440" Muc_luong="5000000" Dia_chi="64/23 H Phường 8- Quận 3- Tỉnh/Tp HH&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="4" Ho_ten="Bùi nam quang Viễn" Gioi_tinh="false" Ngay_sinh="21/05/1993" CMND="092700391" Muc_luong="5800000" Dia_chi="3 U Phường 8- Quận 11- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="5" Ho_ten="Nguyễn ngọc Khuê" Gioi_tinh="true" Ngay_sinh="22/07/1977" CMND="047326979" Muc_luong="8000000" Dia_chi="629/59 F Phường 1- Quận 11- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="6" Ho_ten="Lâm lý Hoàng" Gioi_tinh="true" Ngay_sinh="18/08/1969" CMND="040434070" Muc_luong="4200000" Dia_chi="56/89 N Phường 4- Quận 1- Tỉnh/Tp NN&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="7" Ho_ten="Hứa triệu Hạnh" Gioi_tinh="false" Ngay_sinh="26/08/1980" CMND="016735343" Muc_luong="9600000" Dia_chi="26 F Phường 2- Quận 9- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="8" Ho_ten="Bùi đình Bình" Gioi_tinh="false" Ngay_sinh="29/08/1974" CMND="064433543" Muc_luong="5600000" Dia_chi="8 V Phường 8- Quận 11- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="9" Ho_ten="Trang bùi Kháng" Gioi_tinh="true" Ngay_sinh="25/06/1982" CMND="095135931" Muc_luong="5200000" Dia_chi="14 E Phường 5- Quận 4- Tỉnh/Tp EE&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="10" Ho_ten="Nguyễn thiện Hạ" Gioi_tinh="false" Ngay_sinh="25/01/1966" CMND="094229144" Muc_luong="3000000" Dia_chi="5 E Phường 4- Quận 2- Tỉnh/Tp EE&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="11" Ho_ten="Trần thanh thụy Lan" Gioi_tinh="true" Ngay_sinh="19/11/1970" CMND="029105862" Muc_luong="6600000" Dia_chi="2/53 N Phường 1- Quận 1- Tỉnh/Tp NN&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="12" Ho_ten="Đặng lý hồng Thu" Gioi_tinh="false" Ngay_sinh="25/01/1991" CMND="062256584" Muc_luong="9000000" Dia_chi="2 P Phường 8- Quận 1- Tỉnh/Tp PP&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="13" Ho_ten="Trần ngọc hải Sơn" Gioi_tinh="true" Ngay_sinh="03/02/1978" CMND="018992163" Muc_luong="2400000" Dia_chi="92 I Phường 6- Quận 10- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="14" Ho_ten="Hà chiến đan Tân" Gioi_tinh="true" Ngay_sinh="18/06/1989" CMND="087905879" Muc_luong="7600000" Dia_chi="453 U Phường 4- Quận 4- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="15" Ho_ten="Châu phước hiền trúc" Gioi_tinh="true" Ngay_sinh="03/10/1974" CMND="032912234" Muc_luong="6600000" Dia_chi="863/99 W Phường 7- Quận 5- Tỉnh/Tp WW&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="16" Ho_ten="Phi duy thảo Nguyên" Gioi_tinh="false" Ngay_sinh="01/09/1982" CMND="073572633" Muc_luong="5200000" Dia_chi="54 B Phường 4- Quận 8- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="17" Ho_ten="Kiều thế Tế" Gioi_tinh="true" Ngay_sinh="18/09/1976" CMND="067563351" Muc_luong="2000000" Dia_chi="9 Q Phường 3- Quận 12- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="18" Ho_ten="Lý thị Lam" Gioi_tinh="false" Ngay_sinh="28/11/1971" CMND="053178383" Muc_luong="8200000" Dia_chi="72 E Phường 1- Quận 9- Tỉnh/Tp EE&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="19" Ho_ten="Nguyễn quyết thục Phán" Gioi_tinh="true" Ngay_sinh="14/10/1986" CMND="024458986" Muc_luong="8400000" Dia_chi="6 U Phường 8- Quận 4- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="20" Ho_ten="Triệu lâm Hiền" Gioi_tinh="true" Ngay_sinh="15/09/1979" CMND="023628742" Muc_luong="3600000" Dia_chi="325 H Phường 9- Quận 11- Tỉnh/Tp HH&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="21" Ho_ten="Đinh văn Hạnh" Gioi_tinh="true" Ngay_sinh="21/07/1984" CMND="092168370" Muc_luong="3600000" Dia_chi="9 M Phường 8- Quận 11- Tỉnh/Tp MM&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="22" Ho_ten="Ngô thế Bình" Gioi_tinh="false" Ngay_sinh="15/05/1982" CMND="040749352" Muc_luong="8400000" Dia_chi="86 O Phường 4- Quận 6- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="23" Ho_ten="Quách thị hiền trúc" Gioi_tinh="true" Ngay_sinh="09/03/1977" CMND="015027042" Muc_luong="6200000" Dia_chi="98 G Phường 9- Quận 7- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="24" Ho_ten="Phí bích Thiết" Gioi_tinh="false" Ngay_sinh="21/02/1978" CMND="025422943" Muc_luong="3000000" Dia_chi="24/38 M Phường 7- Quận 4- Tỉnh/Tp MM&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="25" Ho_ten="Đồng tiến Khóa" Gioi_tinh="true" Ngay_sinh="18/02/1972" CMND="008703493" Muc_luong="5400000" Dia_chi="49 Y Phường 6- Quận 14- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="26" Ho_ten="Hoa thanh Lan" Gioi_tinh="false" Ngay_sinh="09/11/1975" CMND="008529474" Muc_luong="6800000" Dia_chi="6 A Phường 6- Quận 9- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="27" Ho_ten="Thái ngọc tuấn Tài" Gioi_tinh="false" Ngay_sinh="22/12/1974" CMND="070792451" Muc_luong="4400000" Dia_chi="312 X Phường 9- Quận 4- Tỉnh/Tp XX&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="28" Ho_ten="Đặng ngọc Táo" Gioi_tinh="true" Ngay_sinh="22/12/1989" CMND="081758494" Muc_luong="4600000" Dia_chi="16 B Phường 1- Quận 8- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="29" Ho_ten="Trần quyết sơn Trúc" Gioi_tinh="false" Ngay_sinh="13/10/1969" CMND="089531662" Muc_luong="4400000" Dia_chi="8/92 F Phường 6- Quận 4- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="30" Ho_ten="Tô quỳnh Bính" Gioi_tinh="true" Ngay_sinh="02/01/1989" CMND="038052887" Muc_luong="8800000" Dia_chi="267 D Phường 2- Quận 4- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="1" />
+  <NHAN_VIEN ID="31" Ho_ten="Trần tiến Quân" Gioi_tinh="true" Ngay_sinh="28/09/1964" CMND="011468433" Muc_luong="8600000" Dia_chi="545/59 T Phường 8- Quận 11- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="32" Ho_ten="Lê minh Khang" Gioi_tinh="true" Ngay_sinh="13/12/1984" CMND="052250493" Muc_luong="8400000" Dia_chi="46 D Phường 6- Quận 1- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="33" Ho_ten="Dương thanh Bình" Gioi_tinh="true" Ngay_sinh="27/09/1975" CMND="013496480" Muc_luong="6800000" Dia_chi="685 L Phường 5- Quận 13- Tỉnh/Tp LL&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="34" Ho_ten="Trương phước thảo Trúc" Gioi_tinh="true" Ngay_sinh="26/03/1983" CMND="071576262" Muc_luong="2800000" Dia_chi="334 V Phường 5- Quận 7- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="35" Ho_ten="Mai đình Dương" Gioi_tinh="true" Ngay_sinh="05/04/1990" CMND="077321551" Muc_luong="6400000" Dia_chi="9 N Phường 3- Quận 7- Tỉnh/Tp NN&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="36" Ho_ten="Lâm văn Thiết" Gioi_tinh="true" Ngay_sinh="27/07/1973" CMND="065515564" Muc_luong="8200000" Dia_chi="825 J Phường 7- Quận 6- Tỉnh/Tp JJ&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="37" Ho_ten="Bàng bùi Trường" Gioi_tinh="false" Ngay_sinh="13/12/1991" CMND="040383605" Muc_luong="3400000" Dia_chi="98/27 F Phường 2- Quận 11- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="38" Ho_ten="Cao kiến đổ Quyên" Gioi_tinh="true" Ngay_sinh="14/07/1982" CMND="037068744" Muc_luong="5400000" Dia_chi="6 D Phường 5- Quận 12- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="39" Ho_ten="Bạch lê Khánh" Gioi_tinh="true" Ngay_sinh="23/01/1970" CMND="072256152" Muc_luong="7200000" Dia_chi="36 U Phường 7- Quận 9- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="40" Ho_ten="Lý đình hải Bích" Gioi_tinh="true" Ngay_sinh="06/07/1966" CMND="071635073" Muc_luong="2600000" Dia_chi="87/87 C Phường 5- Quận 8- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="41" Ho_ten="Lê sơn Đông" Gioi_tinh="true" Ngay_sinh="27/04/1987" CMND="089913729" Muc_luong="5400000" Dia_chi="1/10 E Phường 6- Quận 4- Tỉnh/Tp EE&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="42" Ho_ten="Đổ bùi Tâm" Gioi_tinh="false" Ngay_sinh="11/06/1981" CMND="004839602" Muc_luong="7200000" Dia_chi="1 Y Phường 2- Quận 11- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="43" Ho_ten="Trần duy Lan" Gioi_tinh="false" Ngay_sinh="13/12/1966" CMND="010570899" Muc_luong="4000000" Dia_chi="544/88 L Phường 1- Quận 11- Tỉnh/Tp LL&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="44" Ho_ten="Bàng bùi Trưởng" Gioi_tinh="false" Ngay_sinh="29/01/1987" CMND="019209897" Muc_luong="5600000" Dia_chi="849 D Phường 3- Quận 2- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="45" Ho_ten="Trần lê bạch Mai" Gioi_tinh="false" Ngay_sinh="12/07/1981" CMND="074732263" Muc_luong="8600000" Dia_chi="534 T Phường 8- Quận 14- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="46" Ho_ten="Đổ bích Tế" Gioi_tinh="true" Ngay_sinh="04/09/1979" CMND="057959424" Muc_luong="2200000" Dia_chi="163 G Phường 6- Quận 9- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="47" Ho_ten="Hứa đình Trường" Gioi_tinh="true" Ngay_sinh="12/04/1990" CMND="096535270" Muc_luong="7000000" Dia_chi="52 A Phường 4- Quận 11- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="48" Ho_ten="Bùi lê Bình" Gioi_tinh="true" Ngay_sinh="12/03/1991" CMND="072759534" Muc_luong="7600000" Dia_chi="9 Q Phường 8- Quận 4- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="49" Ho_ten="Phạm bảo Khiêm" Gioi_tinh="true" Ngay_sinh="11/06/1985" CMND="090500821" Muc_luong="9000000" Dia_chi="92 Y Phường 2- Quận 6- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="50" Ho_ten="Bạch kiến Thiết" Gioi_tinh="false" Ngay_sinh="02/11/1974" CMND="059367222" Muc_luong="8200000" Dia_chi="216 R Phường 6- Quận 10- Tỉnh/Tp RR&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="51" Ho_ten="Trang quyết Nguyên" Gioi_tinh="true" Ngay_sinh="05/12/1981" CMND="031786681" Muc_luong="7800000" Dia_chi="34 D Phường 3- Quận 7- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="52" Ho_ten="Bùi hồng Bình" Gioi_tinh="false" Ngay_sinh="27/01/1967" CMND="067100471" Muc_luong="4800000" Dia_chi="42 N Phường 2- Quận 12- Tỉnh/Tp NN&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="53" Ho_ten="Phi tắc tuấn Tài" Gioi_tinh="true" Ngay_sinh="04/12/1983" CMND="097735542" Muc_luong="3800000" Dia_chi="33 R Phường 4- Quận 10- Tỉnh/Tp RR&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="54" Ho_ten="Phạm thế Tạo" Gioi_tinh="true" Ngay_sinh="18/02/1993" CMND="039814616" Muc_luong="5200000" Dia_chi="464 A Phường 4- Quận 10- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="55" Ho_ten="Triệu đình Quân" Gioi_tinh="false" Ngay_sinh="08/09/1967" CMND="081948710" Muc_luong="9800000" Dia_chi="47 V Phường 8- Quận 2- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="56" Ho_ten="Đổ phước Trang" Gioi_tinh="false" Ngay_sinh="21/11/1988" CMND="068600331" Muc_luong="3000000" Dia_chi="7/32 B Phường 7- Quận 5- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="57" Ho_ten="Triệu bích thảo Nguyên" Gioi_tinh="true" Ngay_sinh="07/05/1973" CMND="098270145" Muc_luong="5600000" Dia_chi="1 H Phường 3- Quận 4- Tỉnh/Tp HH&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="58" Ho_ten="Đinh văn hải Bích" Gioi_tinh="true" Ngay_sinh="01/09/1989" CMND="098366371" Muc_luong="8400000" Dia_chi="2 D Phường 5- Quận 9- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="59" Ho_ten="Mai phạm Tạo" Gioi_tinh="true" Ngay_sinh="29/11/1970" CMND="085616797" Muc_luong="6200000" Dia_chi="5 Y Phường 6- Quận 6- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="2" />
+  <NHAN_VIEN ID="60" Ho_ten="Hoàng thành Thiết" Gioi_tinh="true" Ngay_sinh="10/05/1983" CMND="033738117" Muc_luong="7200000" Dia_chi="7/73 D Phường 1- Quận 6- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="61" Ho_ten="Phạm kim quang Mỹ" Gioi_tinh="false" Ngay_sinh="22/06/1976" CMND="006751951" Muc_luong="6000000" Dia_chi="92 V Phường 4- Quận 11- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="62" Ho_ten="Đổ hửu kim Hồng" Gioi_tinh="false" Ngay_sinh="20/06/1969" CMND="012342859" Muc_luong="9600000" Dia_chi="6/30 I Phường 7- Quận 1- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="63" Ho_ten="Trần gia gia Trưởng" Gioi_tinh="false" Ngay_sinh="17/06/1982" CMND="017892266" Muc_luong="8400000" Dia_chi="543 H Phường 4- Quận 3- Tỉnh/Tp HH&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="64" Ho_ten="Lâm thanh trầm Long" Gioi_tinh="true" Ngay_sinh="13/05/1980" CMND="013915676" Muc_luong="6800000" Dia_chi="86/58 O Phường 5- Quận 14- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="65" Ho_ten="Nhữ đình Trí" Gioi_tinh="true" Ngay_sinh="08/11/1973" CMND="018944657" Muc_luong="2800000" Dia_chi="466 W Phường 2- Quận 11- Tỉnh/Tp WW&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="66" Ho_ten="Nguyên phước Song" Gioi_tinh="true" Ngay_sinh="21/07/1966" CMND="046877684" Muc_luong="9800000" Dia_chi="483/26 B Phường 2- Quận 1- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="67" Ho_ten="Võ văn Bích" Gioi_tinh="true" Ngay_sinh="15/12/1968" CMND="049158803" Muc_luong="2200000" Dia_chi="143 R Phường 9- Quận 13- Tỉnh/Tp RR&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="68" Ho_ten="Phi tắc hải Liên" Gioi_tinh="true" Ngay_sinh="17/01/1970" CMND="072797790" Muc_luong="6400000" Dia_chi="454 Q Phường 1- Quận 1- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="69" Ho_ten="Cao thiện Hồng" Gioi_tinh="true" Ngay_sinh="06/05/1990" CMND="027845129" Muc_luong="7200000" Dia_chi="72/91 U Phường 9- Quận 3- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="70" Ho_ten="Phùng phước quang Mỹ" Gioi_tinh="true" Ngay_sinh="20/07/1970" CMND="098182889" Muc_luong="8600000" Dia_chi="889/16 G Phường 2- Quận 11- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="71" Ho_ten="Hồ tắc xuân Trường" Gioi_tinh="true" Ngay_sinh="30/10/1988" CMND="025720460" Muc_luong="5000000" Dia_chi="98/33 P Phường 8- Quận 7- Tỉnh/Tp PP&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="72" Ho_ten="Trần sơn Viễn" Gioi_tinh="false" Ngay_sinh="02/08/1975" CMND="039888062" Muc_luong="8400000" Dia_chi="9/95 H Phường 5- Quận 8- Tỉnh/Tp HH&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="73" Ho_ten="Bạch thành Thu" Gioi_tinh="false" Ngay_sinh="11/01/1978" CMND="040200583" Muc_luong="6800000" Dia_chi="52 F Phường 8- Quận 6- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="74" Ho_ten="Đồng chiến kim Hồng" Gioi_tinh="true" Ngay_sinh="02/03/1968" CMND="069803348" Muc_luong="3600000" Dia_chi="3 W Phường 9- Quận 13- Tỉnh/Tp WW&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="75" Ho_ten="Nguyễn thị thanh Tần" Gioi_tinh="false" Ngay_sinh="27/11/1987" CMND="092548106" Muc_luong="3200000" Dia_chi="96 I Phường 7- Quận 2- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="76" Ho_ten="Trần văn Lan" Gioi_tinh="true" Ngay_sinh="14/09/1978" CMND="043323929" Muc_luong="8400000" Dia_chi="71 F Phường 4- Quận 6- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="77" Ho_ten="Hồ bùi Đông" Gioi_tinh="true" Ngay_sinh="25/05/1987" CMND="075162518" Muc_luong="4000000" Dia_chi="233 U Phường 2- Quận 4- Tỉnh/Tp UU&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="78" Ho_ten="Trầm thị đan Tân" Gioi_tinh="false" Ngay_sinh="07/05/1974" CMND="032690379" Muc_luong="9000000" Dia_chi="17 V Phường 2- Quận 8- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="79" Ho_ten="Lê viết Khánh" Gioi_tinh="true" Ngay_sinh="24/06/1980" CMND="055727612" Muc_luong="6400000" Dia_chi="414/97 A Phường 3- Quận 7- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="80" Ho_ten="Đặng lê Thanh" Gioi_tinh="false" Ngay_sinh="11/06/1984" CMND="025790658" Muc_luong="8400000" Dia_chi="88 V Phường 7- Quận 5- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="81" Ho_ten="Lý bảo Khuê" Gioi_tinh="true" Ngay_sinh="20/02/1979" CMND="066361478" Muc_luong="3600000" Dia_chi="368 Q Phường 1- Quận 9- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="82" Ho_ten="Huỳnh hữu Lan" Gioi_tinh="true" Ngay_sinh="31/08/1981" CMND="045421510" Muc_luong="6400000" Dia_chi="62 Y Phường 4- Quận 5- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="83" Ho_ten="Đặng thị thụy Lan" Gioi_tinh="true" Ngay_sinh="01/03/1982" CMND="065283021" Muc_luong="5600000" Dia_chi="3 A Phường 2- Quận 11- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="84" Ho_ten="Phạm cao ngọc Liên" Gioi_tinh="true" Ngay_sinh="10/11/1982" CMND="014696866" Muc_luong="4400000" Dia_chi="4/15 Y Phường 8- Quận 1- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="85" Ho_ten="Đinh quyết thụy Lan" Gioi_tinh="true" Ngay_sinh="20/11/1992" CMND="090437686" Muc_luong="3400000" Dia_chi="864 F Phường 9- Quận 5- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="86" Ho_ten="Lý hữu Dung" Gioi_tinh="false" Ngay_sinh="26/08/1988" CMND="028030279" Muc_luong="5400000" Dia_chi="76/37 F Phường 6- Quận 13- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="87" Ho_ten="Hứa kiên Lành" Gioi_tinh="true" Ngay_sinh="16/09/1972" CMND="056646093" Muc_luong="4000000" Dia_chi="4/90 O Phường 3- Quận 7- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="3" />
+  <NHAN_VIEN ID="88" Ho_ten="Trầm thành Trúc" Gioi_tinh="true" Ngay_sinh="04/02/1980" CMND="028739772" Muc_luong="4600000" Dia_chi="57 I Phường 4- Quận 10- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="89" Ho_ten="Chu gia bích Châu" Gioi_tinh="true" Ngay_sinh="17/02/1967" CMND="036294624" Muc_luong="7200000" Dia_chi="28 F Phường 8- Quận 13- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="90" Ho_ten="Huỳnh đình Ngoạn" Gioi_tinh="true" Ngay_sinh="13/11/1965" CMND="095949287" Muc_luong="2200000" Dia_chi="224 F Phường 5- Quận 7- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="91" Ho_ten="Thái lý phi Nhung" Gioi_tinh="false" Ngay_sinh="24/03/1984" CMND="012810574" Muc_luong="9800000" Dia_chi="8/45 B Phường 3- Quận 8- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="92" Ho_ten="Công ngọc Đài" Gioi_tinh="false" Ngay_sinh="05/08/1982" CMND="049632636" Muc_luong="3600000" Dia_chi="7/32 K Phường 6- Quận 9- Tỉnh/Tp KK&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="93" Ho_ten="Phạm thị Thanh" Gioi_tinh="false" Ngay_sinh="09/10/1980" CMND="088335119" Muc_luong="2400000" Dia_chi="121 I Phường 2- Quận 12- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="94" Ho_ten="Phạm thiện Anh" Gioi_tinh="false" Ngay_sinh="05/05/1987" CMND="000816696" Muc_luong="3600000" Dia_chi="6/66 B Phường 3- Quận 14- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="95" Ho_ten="Trần quyết Hạ" Gioi_tinh="false" Ngay_sinh="29/03/1968" CMND="057017349" Muc_luong="4800000" Dia_chi="67/83 G Phường 6- Quận 6- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="96" Ho_ten="Trang hữu Bình" Gioi_tinh="true" Ngay_sinh="18/06/1980" CMND="095902891" Muc_luong="6000000" Dia_chi="1 O Phường 4- Quận 12- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="97" Ho_ten="Triệu phước ngọc Liên" Gioi_tinh="true" Ngay_sinh="01/12/1983" CMND="087025203" Muc_luong="4400000" Dia_chi="677 T Phường 5- Quận 3- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="98" Ho_ten="Hứa thanh Thiên" Gioi_tinh="true" Ngay_sinh="27/01/1971" CMND="083742974" Muc_luong="6600000" Dia_chi="5 R Phường 2- Quận 8- Tỉnh/Tp RR&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="99" Ho_ten="Nguyễn hữu Hùng" Gioi_tinh="false" Ngay_sinh="12/08/1980" CMND="085539653" Muc_luong="8000000" Dia_chi="3 P Phường 6- Quận 12- Tỉnh/Tp PP&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="100" Ho_ten="Nguyễn chiến Táo" Gioi_tinh="true" Ngay_sinh="13/04/1968" CMND="058341925" Muc_luong="9600000" Dia_chi="21 M Phường 4- Quận 5- Tỉnh/Tp MM&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="101" Ho_ten="Ôn đình Hồng" Gioi_tinh="false" Ngay_sinh="11/11/1974" CMND="047396113" Muc_luong="8400000" Dia_chi="5 Q Phường 9- Quận 14- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="102" Ho_ten="Ngô quyết Song" Gioi_tinh="false" Ngay_sinh="07/07/1975" CMND="093211111" Muc_luong="6200000" Dia_chi="254 C Phường 2- Quận 1- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="103" Ho_ten="Trang bảo Toàn" Gioi_tinh="true" Ngay_sinh="30/12/1969" CMND="013601541" Muc_luong="7200000" Dia_chi="6/44 C Phường 5- Quận 2- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="104" Ho_ten="Lê phước Thúy" Gioi_tinh="false" Ngay_sinh="07/06/1989" CMND="089968881" Muc_luong="6800000" Dia_chi="23 F Phường 8- Quận 8- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="105" Ho_ten="Huỳnh đắc Tạo" Gioi_tinh="false" Ngay_sinh="24/08/1976" CMND="029913069" Muc_luong="8200000" Dia_chi="7/41 G Phường 5- Quận 11- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="106" Ho_ten="Nguyễn kim bảo Châu" Gioi_tinh="false" Ngay_sinh="28/06/1992" CMND="006396866" Muc_luong="7000000" Dia_chi="52 P Phường 9- Quận 13- Tỉnh/Tp PP&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="107" Ho_ten="Dương phước Trúc" Gioi_tinh="true" Ngay_sinh="28/07/1971" CMND="084404937" Muc_luong="7000000" Dia_chi="935/36 O Phường 2- Quận 11- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="108" Ho_ten="Võ hùng Kiếm" Gioi_tinh="true" Ngay_sinh="10/04/1983" CMND="020965807" Muc_luong="8000000" Dia_chi="73/95 Y Phường 2- Quận 14- Tỉnh/Tp YY&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="109" Ho_ten="Trương cao quang Mỹ" Gioi_tinh="false" Ngay_sinh="06/11/1979" CMND="099463277" Muc_luong="3200000" Dia_chi="782 M Phường 3- Quận 12- Tỉnh/Tp MM&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="110" Ho_ten="Hà văn Nguyệt" Gioi_tinh="true" Ngay_sinh="23/09/1990" CMND="079061518" Muc_luong="5000000" Dia_chi="9 E Phường 9- Quận 3- Tỉnh/Tp EE&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="111" Ho_ten="Hà minh bình Minh" Gioi_tinh="true" Ngay_sinh="21/07/1993" CMND="017537066" Muc_luong="5600000" Dia_chi="464/26 L Phường 6- Quận 10- Tỉnh/Tp LL&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="112" Ho_ten="Quách quyết hồng Thu" Gioi_tinh="true" Ngay_sinh="12/07/1982" CMND="058475183" Muc_luong="8800000" Dia_chi="271 S Phường 8- Quận 3- Tỉnh/Tp SS&#xD;&#xA;" ID_DON_VI="4" />
+  <NHAN_VIEN ID="113" Ho_ten="Phi bảo Thúy" Gioi_tinh="true" Ngay_sinh="18/07/1986" CMND="033177386" Muc_luong="9600000" Dia_chi="81/56 I Phường 3- Quận 3- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="114" Ho_ten="Thái hồng Đại" Gioi_tinh="false" Ngay_sinh="14/11/1983" CMND="013108892" Muc_luong="2200000" Dia_chi="375/61 S Phường 4- Quận 8- Tỉnh/Tp SS&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="115" Ho_ten="Chu ngọc Xuân" Gioi_tinh="false" Ngay_sinh="29/03/1990" CMND="093248707" Muc_luong="8200000" Dia_chi="7/87 Q Phường 7- Quận 8- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="116" Ho_ten="Nguyễn hà minh Lý" Gioi_tinh="true" Ngay_sinh="11/03/1989" CMND="082037410" Muc_luong="2200000" Dia_chi="63 D Phường 7- Quận 9- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="117" Ho_ten="Nguyễn lý phi Hùng" Gioi_tinh="false" Ngay_sinh="01/01/1970" CMND="045877060" Muc_luong="6600000" Dia_chi="34/20 B Phường 2- Quận 3- Tỉnh/Tp BB&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="118" Ho_ten="Đổ tiến thục Phán" Gioi_tinh="false" Ngay_sinh="07/09/1986" CMND="080945086" Muc_luong="7200000" Dia_chi="4 K Phường 7- Quận 3- Tỉnh/Tp KK&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="119" Ho_ten="Chu như Dung" Gioi_tinh="false" Ngay_sinh="19/01/1964" CMND="049383064" Muc_luong="3200000" Dia_chi="2/48 R Phường 7- Quận 11- Tỉnh/Tp RR&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="120" Ho_ten="Phạm tiến đình Phước" Gioi_tinh="false" Ngay_sinh="28/04/1968" CMND="087003730" Muc_luong="6800000" Dia_chi="9 T Phường 3- Quận 13- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="121" Ho_ten="Lê hùng Nguyệt" Gioi_tinh="true" Ngay_sinh="10/10/1975" CMND="045603279" Muc_luong="5200000" Dia_chi="788 O Phường 2- Quận 4- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="122" Ho_ten="Đặng văn Nguyên" Gioi_tinh="true" Ngay_sinh="16/05/1976" CMND="059366480" Muc_luong="8200000" Dia_chi="1/72 J Phường 2- Quận 2- Tỉnh/Tp JJ&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="123" Ho_ten="Cao thị Lan" Gioi_tinh="true" Ngay_sinh="15/08/1982" CMND="082059775" Muc_luong="3600000" Dia_chi="2/12 X Phường 7- Quận 10- Tỉnh/Tp XX&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="124" Ho_ten="Ôn hữu Trinh" Gioi_tinh="true" Ngay_sinh="18/10/1974" CMND="094861201" Muc_luong="4000000" Dia_chi="388 Q Phường 3- Quận 1- Tỉnh/Tp QQ&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="125" Ho_ten="Lý đình Trưởng" Gioi_tinh="false" Ngay_sinh="10/02/1981" CMND="028064438" Muc_luong="7200000" Dia_chi="338 F Phường 9- Quận 11- Tỉnh/Tp FF&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="126" Ho_ten="Trang gia Châu" Gioi_tinh="false" Ngay_sinh="12/03/1970" CMND="083220477" Muc_luong="6800000" Dia_chi="843 N Phường 5- Quận 12- Tỉnh/Tp NN&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="127" Ho_ten="Kiều thanh Đài" Gioi_tinh="true" Ngay_sinh="22/06/1981" CMND="055880101" Muc_luong="5800000" Dia_chi="6/96 T Phường 4- Quận 3- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="128" Ho_ten="Nguyễn đình Hóa" Gioi_tinh="false" Ngay_sinh="05/07/1967" CMND="034452327" Muc_luong="3000000" Dia_chi="51 T Phường 7- Quận 7- Tỉnh/Tp TT&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="129" Ho_ten="Hoàng văn hồng Thu" Gioi_tinh="false" Ngay_sinh="05/08/1976" CMND="046720706" Muc_luong="2600000" Dia_chi="335/19 I Phường 3- Quận 11- Tỉnh/Tp II&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="130" Ho_ten="Ôn hà Khang" Gioi_tinh="true" Ngay_sinh="29/09/1978" CMND="009607635" Muc_luong="6000000" Dia_chi="7 S Phường 7- Quận 5- Tỉnh/Tp SS&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="131" Ho_ten="Hứa văn Đông" Gioi_tinh="true" Ngay_sinh="06/10/1965" CMND="082786618" Muc_luong="7200000" Dia_chi="192/74 G Phường 4- Quận 11- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="132" Ho_ten="Liên thiện chiến Thắng" Gioi_tinh="true" Ngay_sinh="09/06/1988" CMND="027236051" Muc_luong="6400000" Dia_chi="36 G Phường 8- Quận 6- Tỉnh/Tp GG&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="133" Ho_ten="Huỳnh bảo Viễn" Gioi_tinh="false" Ngay_sinh="16/11/1984" CMND="007759088" Muc_luong="8800000" Dia_chi="3 K Phường 5- Quận 1- Tỉnh/Tp KK&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="134" Ho_ten="Trần kim thúy Hạnh" Gioi_tinh="false" Ngay_sinh="23/10/1967" CMND="064585895" Muc_luong="4800000" Dia_chi="4/43 C Phường 2- Quận 1- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="135" Ho_ten="Dương văn minh Châu" Gioi_tinh="false" Ngay_sinh="16/08/1983" CMND="037299487" Muc_luong="2400000" Dia_chi="177/58 D Phường 9- Quận 14- Tỉnh/Tp DD&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="136" Ho_ten="Huỳnh đình ngọc Liên" Gioi_tinh="false" Ngay_sinh="23/03/1982" CMND="070222094" Muc_luong="8600000" Dia_chi="538 V Phường 6- Quận 7- Tỉnh/Tp VV&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="137" Ho_ten="Lý tiến Trang" Gioi_tinh="true" Ngay_sinh="17/10/1972" CMND="056068485" Muc_luong="9200000" Dia_chi="8/49 W Phường 7- Quận 2- Tỉnh/Tp WW&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="138" Ho_ten="Chu thanh Quyên" Gioi_tinh="true" Ngay_sinh="23/10/1971" CMND="092777036" Muc_luong="9400000" Dia_chi="33 O Phường 6- Quận 4- Tỉnh/Tp OO&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="139" Ho_ten="Trầm lê Anh" Gioi_tinh="false" Ngay_sinh="19/05/1971" CMND="091569983" Muc_luong="6800000" Dia_chi="2 A Phường 6- Quận 5- Tỉnh/Tp AA&#xD;&#xA;" ID_DON_VI="5" />
+  <NHAN_VIEN ID="140" Ho_ten="Nguyễn phước đổ Quyên" Gioi_tinh="true" Ngay_sinh="28/06/1978" CMND="099758931" Muc_luong="9200000" Dia_chi="679/11 C Phường 2- Quận 1- Tỉnh/Tp CC&#xD;&#xA;" ID_DON_VI="5" />
+</NHAN_VIEN_S>
